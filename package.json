@@ -1,0 +1,22 @@
+{
+  "name": "pothos-incremental-adoption-guide",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@graphql-tools/schema": "^9.0.12",
+    "@pothos/core": "^3.23.2",
+    "class-validator": "^0.14.0",
+    "graphql": "^15.3.0",
+    "graphql-tools": "^8.3.14",
+    "graphql-yoga": "^3.1.1",
+    "reflect-metadata": "^0.1.13",
+    "type-graphql": "^1.1.1"
+  }
+}
